@@ -2,7 +2,7 @@
 
 Ruby scripts for the regular expressions project.
 
-## regular_expressions
+## Directory: regular_expressions
 
 | File | Description |
 |------|-------------|
@@ -19,4 +19,5 @@ Ruby scripts for the regular expressions project.
 
 ## Usage
 
+    cd regular_expressions
     ./0-simply_match_school.rb "Best School"
